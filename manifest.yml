@@ -1,0 +1,9 @@
+---
+name: Matlab
+category: Interactive Apps
+subcategory: Languages
+role: batch_connect
+description: |
+  This app will launch matlab on one or more compute nodes. You
+  will have full access to the resources these nodes provide. This is analogous
+  to an interactive batch job.
